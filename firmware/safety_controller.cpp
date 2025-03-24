@@ -3,7 +3,7 @@
 #include <cmath>
 
 // @nema:get:https://app.nemasystems.io/nema-public-demo/default/requirements-demo/data/10
-static constexpr double SAFETY_STOP_DISTANCE_M = 1.2;
+static constexpr double SAFETY_STOP_DISTANCE_M = 0.5;
 
 // @nema:get:https://app.nemasystems.io/nema-public-demo/default/requirements-demo/data/4
 static constexpr double MAX_ROBOT_SPEED_MS = 2.0;
