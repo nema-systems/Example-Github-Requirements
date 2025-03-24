@@ -1,0 +1,3 @@
+project = "https://app.nemasystems.io/nema-public-demo/default/requirements-demo"
+type = "LIBRARY"
+global_id = 1
