@@ -3,10 +3,10 @@
 #include <iostream>
 
 // @nema:get:https://app.nemasystems.io/nema-public-demo/default/requirements-demo/data/8
-static constexpr double MAX_OPERATING_TEMP_C = 46.0;
+static constexpr double MAX_OPERATING_TEMP_C = 45.0;
 
 // @nema:get:https://app.nemasystems.io/nema-public-demo/default/requirements-demo/data/7
-static constexpr double MIN_OPERATING_TEMP_C = -11.0;
+static constexpr double MIN_OPERATING_TEMP_C = -10.0;
 
 // @nema:get:https://app.nemasystems.io/nema-public-demo/default/requirements-demo/data/2
 static constexpr double BATTERY_CAPACITY_KWH = 15.0;
